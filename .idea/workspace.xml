@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6de242ed-6667-4644-bcbd-531b9986bb2d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SettingsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SettingsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Settings.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/settings.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/settings.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/admin_layout/admin_design.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/admin_layout/admin_design.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jetto" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -159,6 +159,7 @@
       <workItem from="1614067670202" duration="7197000" />
       <workItem from="1614327952219" duration="8124000" />
       <workItem from="1614675463534" duration="5476000" />
+      <workItem from="1614845865058" duration="7876000" />
     </task>
     <servers />
   </component>
@@ -178,9 +179,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="450" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614073276957" />
-    <state x="329" y="0" width="1591" height="1040" key="SettingsEditor" timestamp="1614678200087">
+    <state x="329" y="0" width="1591" height="1040" key="SettingsEditor" timestamp="1614849334157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="329" y="0" width="1591" height="1040" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614678200087" />
+    <state x="329" y="0" width="1591" height="1040" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614849334157" />
   </component>
 </project>
