@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6de242ed-6667-4644-bcbd-531b9986bb2d" name="Default Changelist" comment="" />
+    <list default="true" id="6de242ed-6667-4644-bcbd-531b9986bb2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/settings.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/settings.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/admin_layout/admin_design.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/admin_layout/admin_design.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -123,7 +131,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jetto" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -149,7 +157,8 @@
       <updated>1613552800429</updated>
       <workItem from="1613552801552" duration="5476000" />
       <workItem from="1614067670202" duration="7197000" />
-      <workItem from="1614327952219" duration="7179000" />
+      <workItem from="1614327952219" duration="8124000" />
+      <workItem from="1614675463534" duration="5476000" />
     </task>
     <servers />
   </component>
@@ -161,17 +170,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="282" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614332988887" />
-    <state x="740" y="282" key="FileChooserDialogImpl" timestamp="1613588188493">
+    <state x="740" y="282" key="FileChooserDialogImpl" timestamp="1614686424805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613588188493" />
+    <state x="740" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614686424805" />
     <state x="794" y="450" key="NewPhpFileDialog" timestamp="1614073276957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="450" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614073276957" />
-    <state x="329" y="0" width="1591" height="1040" key="SettingsEditor" timestamp="1614329222293">
+    <state x="329" y="0" width="1591" height="1040" key="SettingsEditor" timestamp="1614678200087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="329" y="0" width="1591" height="1040" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614329222293" />
+    <state x="329" y="0" width="1591" height="1040" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614678200087" />
   </component>
 </project>

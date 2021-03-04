@@ -24,4 +24,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/control', 'AdminController@login');
 Route::post('/control', 'AdminController@auth');
 
+Route::get('/settings', 'SettingsController@index');
+Route::post('/settings', 'SettingsController@store');
+
 
